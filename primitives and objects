@@ -17,3 +17,29 @@ const item = {
   "Rohan": undefined
 }
 console.log(item["Shubh"])
+//
+
+//The null data type represents the intentional absence of any object value, whereas the undefined data type indicates the absence of a defined value.
+for ex
+let nullVar = null; // value is intentionally nothing
+let undefinedVar; // value is undefined or not defined
+
+//TYPEOF OPERATOR
+console.log(typeof numVar); // Output: number
+console.log(typeof strVar); // Output: string 
+
+
+
+const bioData = {
+	name: "Harry",
+	age: 29,
+	likesJS: true,
+	secret: undefined,
+};
+//
+const bioData = {
+	name: "Harry",
+	age: 29,
+	likesJS: true,
+	secret: undefined,
+};
